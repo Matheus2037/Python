@@ -1,0 +1,5 @@
+print("*" * 128)
+print("\n")
+print(" " * 47 +"CÁLCULO DE GRANDEZAS ELÉTRICAS")
+print("\n")
+print("*" * 128)
